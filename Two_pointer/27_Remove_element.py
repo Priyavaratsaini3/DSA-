@@ -8,4 +8,5 @@ def remove(nums):
         else: 
            l += 1 
     return l
+
 print(remove(nums=[3,2,1,2,3,4]))
